@@ -7,13 +7,9 @@ var pictureNames=["delicious-dish-food-2664216.jpg",
 "banana-berries-berry-775032.jpg"]
 
 function next() {
-  /*var x = document.getElementById("currentImage").src;
+  var x = document.getElementById("currentImage").src;
   console.log(x);
-  var i;
-  for (i = 0; i < cars.length; i++)
-  {
-    text += cars[i] + "<br>";
-  } */
+
 }
 
 function previous() {
