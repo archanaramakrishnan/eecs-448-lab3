@@ -11,6 +11,10 @@ function passwordValidation() {
   }
   else if(p1.length<8)
   {
-    alert("The passwords are not at least 8 characters long ");
+    alert("The passwords are not at least 8 characters long");
+  }
+  else if(p1==p2)
+  {
+    alert("The password is valid!");
   }
 }
