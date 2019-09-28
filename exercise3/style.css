@@ -6,12 +6,12 @@ body
     background-attachment: fixed;
 }
 
-h1
+h1, small
 {
     color: black;
 }
 
-.content
+div.content
 {
     background-color: rgba(229, 249, 255, 0.7);
     color: black;
@@ -19,7 +19,7 @@ h1
     font-size: 18pt;
 }
 
-small
+div.about:hover, div.websites:hover, div.video:hover
 {
-    color: black;
+    background-color: rgba(229, 249, 255, 0.9);
 }
