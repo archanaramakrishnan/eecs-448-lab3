@@ -1,12 +1,11 @@
 # eecs-448-lab3
-Heading level 1
-
-Intro to Web Development Portfolio
-EECS 448, Software Engineering 1: Lab 3
+Intro to Web Development Portfolio   
 ========================================
-Image Source: Royalty Free Images at pexels.
-Lab Exercise: EECS 448-Lab 3, Fall 2019
+EECS 448, Software Engineering 1: Lab 3  
 ---------------------------------------
+
+Image Source: Royalty Free Images at pexels.  
+Lab Exercise: EECS 448-Lab 3, Fall 2019  
 
 **Exercise 1: Password Validator**
 Allows the user to enter a password two times in order to validate it. Displays error messages if the password is too short or if the two passwords do not match.
