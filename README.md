@@ -3,7 +3,7 @@ Intro to Web Development Portfolio
 [EECS 448, Software Engineering 1: Lab 3](https://wiki.ittc.ku.edu/ittc_wiki/index.php/EECS448:Lab3)
 ---------------------------------------
 Lab Exercise: EECS 448-Lab 3, Fall 2019  
-[Publication of Lab 3](https://duckduckgo.com).
+[Publication of Lab 3](https://people.eecs.ku.edu/~a099r811/)
 
 **Exercise 1: Password Validator**
 Allows the user to enter a password two times in order to validate it. Displays error messages if the password is too short or if the two passwords do not match.
