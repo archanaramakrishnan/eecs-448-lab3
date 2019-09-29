@@ -3,8 +3,6 @@ Intro to Web Development Portfolio
 ========================================
 EECS 448, Software Engineering 1: Lab 3  
 ---------------------------------------
-
-Image Source: Royalty Free Images at pexels.  
 Lab Exercise: EECS 448-Lab 3, Fall 2019  
 
 **Exercise 1: Password Validator**
