@@ -9,9 +9,10 @@ function stylize() {
   var bgG = document.getElementById("bg-green").value;
   var bgB = document.getElementById("bg-blue").value;
 
-  //Change the style attribute
-  console.log(bgR);
-  console.log(bgG);
-  console.log(bgB);
-  document.body.style.backgroundColor = 'rgb(' + bgR + ',' + bgG + ',' + bgB + ')';
+  //Change the style attributes
+  document.getElementById("para").style.backgroundColor = 'rgb(' + bgR + ',' + bgG + ',' + bgB + ')';
+
+  console.log(borderWidth);
+  document.getElementById("para").style.borderColor = 'rgb(' + borderR + ',' + borderG + ',' + borderB + ')';
+  document.getElementById("para").style.borderWidth = '' + borderWidth + '';
 }
