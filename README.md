@@ -1,4 +1,3 @@
-# eecs-448-lab3
 Intro to Web Development Portfolio   
 ========================================
 EECS 448, Software Engineering 1: Lab 3  
