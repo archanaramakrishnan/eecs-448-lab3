@@ -1,4 +1,3 @@
-//pictures source: https://www.pexels.com/royalty-free-images/
 var current;
 var splitName;
 var imageName;
